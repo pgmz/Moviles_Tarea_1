@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tarea1</string>
+    <string name="activity_main_edit_text_name_hint">Ingrese su nombre</string>
+    <string name="activity_main_edit_text_phone_hint">Ingrese su teléfono</string>
+    <string name="activity_main_text_view_scholarship_text">Escolaridad</string>
+    <string-array name="activity_main_spinner_scholarship_entries">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+    <string name="activity_main_text_view_gender_text">Género</string>
+    <string name="activity_main_radio_button_gender_fem">Femenino</string>
+    <string name="activity_main_radio_button_gender_mas">Masculino</string>
+    <string name="activity_main_text_view_favbook_text">Libro Favorito</string>
+    <string-array name="activity_main_auto_complete_favbook_entries">
+        <item>Un mundo feliz</item>
+        <item>El principito</item>
+        <item>50 sombras de Grey</item>
+        <item>La historiadora</item>
+        <item>Sección amarilla</item>
+    </string-array>
+    <string name="activity_main_checkbox_sport_text">Practica Deporte</string>
+    <string name="activity_main_button_clear_text">Limpiar</string>
+    <string name="activity_menu_title_save">Save</string>
+    <string name="activity_main_warning_dialog_text">Desea limpiar el contenido?</string>
+    <string name="activity_main_warning_dialog_op_yes">OK</string>
+    <string name="activity_main_warning_dialog_op_no">Cancelar</string>
+
+</resources>
